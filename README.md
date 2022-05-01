@@ -5,7 +5,7 @@
 - 🥅 2022 Goals: Learn more about web3 and python
 
 ### Connect with me:
-[![website](./img/linkedin.svg)](https://linkedin.com/in/jvsalmeida)
+[![website](./img/linkedin2.svg)](https://linkedin.com/in/jvsalmeida)
 
 
 ### Languages and Tools:
