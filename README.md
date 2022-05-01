@@ -5,8 +5,8 @@
 - 🥅 2022 Goals: Learn more about web3 and python
 
 ### Connect with me:
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jvsalmeida#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jvsalmeida#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jvsalmeida#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jvsalmeida#gh-dark-mode-only)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
