@@ -1,7 +1,7 @@
 # Hi there, I'm João - aka [jvsalmeida] 👋 
 
 ## I'm a Student!!
-- 🌱 I’m currently learning everything i can 🤣
+- 💻 I’m currently learning everything i can 🤣
 - 🥅 2022 Goals: Learn more about web3 and python
 
 ### Connect with me:
