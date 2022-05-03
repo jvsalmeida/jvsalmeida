@@ -1,6 +1,6 @@
 # Hi there, I'm João - aka [jvsalmeida] 👋 
 
-## I'm a Student, I believe the best way to develop something is with people!!
+## I'm a Student, I do believe the best way to achieve solid results is through collaborative team-work.!!
 - 💻 I’m currently learning everything i can 🤣
 - 🥅 2022 Goals: Learn more about web3 and python
 
